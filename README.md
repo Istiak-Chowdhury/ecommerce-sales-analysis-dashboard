@@ -57,9 +57,6 @@ This dashboard uses a simulated ecommerce dataset that includes:
 - 🧠 Empowers users with actionable insights
 - 🚀 Supports strategic planning through data trends
 
-## Dashboard Preview
-
-![Dashboard Preview](E:\Data Analysis\Excel\Sales)
 
 ## How to Use
 
