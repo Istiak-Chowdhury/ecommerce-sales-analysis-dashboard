@@ -48,7 +48,7 @@ This dashboard uses a simulated ecommerce dataset that includes:
 - **Slicers & Conditional Formatting**  
   To enhance user interaction and visualization
 
-- *(Optional)* **Power Query**  
+- **Power Query**  
   For any data transformation and preprocessing
 
 ## Benefits
